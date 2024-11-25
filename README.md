@@ -34,8 +34,6 @@ Sou um **Web Designer** e **Programador Front-End**, atualmente explorando o **B
 - **Design Systems:** Construção de sistemas coesos para equipes de design e desenvolvimento
 - **Aplicações React:** Interfaces dinâmicas para a web
 
-> Confira mais no meu [Portfólio](#) _(adicionar link aqui)_.
-
 ---
 
 ## 📈 Estatísticas do GitHub
@@ -47,9 +45,9 @@ Sou um **Web Designer** e **Programador Front-End**, atualmente explorando o **B
 
 ## 🌐 Onde me encontrar?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil) _(adicionar link aqui)_
-- 🌍 [Portfólio](https://seuportfolio.com) _(adicionar link aqui)_
-- 📧 Email: [seuemail@example.com](mailto:seuemail@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/david-vinagre-36495b195/) 
+- 🌍 [O meu site](https://hence.pt) 
+- 📧 Email: [henceventerprise@gmail.com](mailto:henceventerprise@gmail.com)
 
 ---
 
