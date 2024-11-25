@@ -7,7 +7,7 @@ Sou um **Web Designer** e **Programador Front-End**, atualmente explorando o **B
 ## 🚀 Minhas Habilidades
 
 ### 🎨 Design e Ferramentas Criativas
-- **Adobe Suite** (Photoshop, Illustrator, XD, etc.)
+- **Adobe Creative Cloud** (Photoshop, Illustrator, XD, etc.)
 - **Figma** e ferramentas colaborativas
 
 ### 💻 Desenvolvimento Front-End
