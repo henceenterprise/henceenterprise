@@ -1,6 +1,4 @@
----
-
-## 📈 Estatísticas do GitHub
+# 📈 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henceenterprise&show_icons=true&theme=radical)
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henceenterprise&layout=compact&theme=radical)
