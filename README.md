@@ -50,7 +50,7 @@ We specialize in <b>Front-End Development</b> and <b>Design</b>, combining funct
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Spline-000000?style=for-the-badge&logo=spline&logoColor=white" alt="Spline" />
+  <img src="https://img.shields.io/badge/Spline-9C27B0?style=for-the-badge&logo=spline&logoColor=white" alt="Spline" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
   <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
