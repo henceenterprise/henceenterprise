@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-logo-link.com/logo.png" width="150" alt="Hence Logo" />
+  <img src="https://hence.pt/media/svg/ic__hence.svg" width="150" height="150" borderRadius="50%" alt="Hence Logo" />
 </p>
 
 <h1 align="center">Welcome to Hence</h1>
