@@ -9,8 +9,8 @@
 
 ## 🚀 About Me
 
-Hello! I'm David, founder of **Hence** — a brand dedicated to building innovative web experiences.  
-I specialize in **Front-End Development** and **Design**, blending creativity with technology to create seamless digital products.
+At **Hence**, we are dedicated to crafting unique and powerful digital experiences.  
+We specialize in **Front-End Development** and **Design**, combining functionality with aesthetics to deliver exceptional results.
 
 - 🔥 Focused on JavaScript, SCSS, and modern web technologies
 - 🛠️ Always improving skills and exploring new technologies
