@@ -1,8 +1,20 @@
-<h1 align="center">Hi there, I'm Hence 👋</h1>
+<p align="center">
+  <img src="https://your-logo-link.com/logo.png" width="150" alt="Hence Logo" />
+</p>
+
+<h1 align="center">Welcome to Hence</h1>
 
 <p align="center">
-  <b>Building creative tech solutions from Lisbon to the world.</b><br/>
-  <b>Frontend Developer | Designer | Technology Enthusiast</b>
+  Innovative solutions connecting creativity and technology.<br/>
+  Web Development | Design | Digital Innovation
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/henceenterprise/henceenterprise?color=brightgreen" alt="Contributors" />
+  <img src="https://img.shields.io/github/issues/henceenterprise/henceenterprise" alt="Open Issues" />
+  <img src="https://img.shields.io/github/pulls/henceenterprise/henceenterprise" alt="Open Pull Requests" />
+  <img src="https://img.shields.io/github/last-commit/henceenterprise/henceenterprise" alt="Last Commit" />
+  <img src="https://img.shields.io/github/license/henceenterprise/henceenterprise" alt="License" />
 </p>
 
 ---
