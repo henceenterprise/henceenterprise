@@ -11,22 +11,28 @@ Innovative solutions connecting creativity and technology.<br/>
 
 ---
 
-## 🚀 About Us
+<h2 align="center">🚀 About Us</h2>
 
 <div align="center">
 
 At <b>Hence</b>, we are dedicated to crafting unique and powerful digital experiences.<br/>
 We specialize in <b>Front-End Development</b> and <b>Design</b>, combining functionality with aesthetics to deliver exceptional results.
 
-- 🔥 Focused on JavaScript, SCSS, and modern web technologies  
-- 🛠️ Always improving skills and exploring new technologies  
-- 🌍 Based in Lisbon, Portugal  
+</div>
+
+<br/>
+
+<div align="center">
+
+🔥 Focused on JavaScript, SCSS, and modern web technologies <br/>
+🛠️ Always improving skills and exploring new technologies <br/>
+🌍 Based in Lisbon, Portugal
 
 </div>
 
 ---
 
-## 🚀 Technologies We Use
+<h2 align="center">🚀 Technologies We Use</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -40,19 +46,19 @@ We specialize in <b>Front-End Development</b> and <b>Design</b>, combining funct
 
 ---
 
-## 🎨 Design & Editing Tools
+<h2 align="center">🎨 Design & Editing Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" />
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henceenterprise&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -61,7 +67,7 @@ We specialize in <b>Front-End Development</b> and <b>Design</b>, combining funct
 
 ---
 
-## 🌎 Connect With Us
+<h2 align="center">🌎 Connect With Us</h2>
 
 <div align="center">
 
