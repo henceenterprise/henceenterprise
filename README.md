@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/Sass-grey?style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass" />
   <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS" />
+  <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
 </p>
 
 ---
