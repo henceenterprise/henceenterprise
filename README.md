@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS" />
   <img src="https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/Sass-grey?style=for-the-badge&logo=sass&logoColor=CC6699" alt="Sass" />
+  <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS" />
 </p>
 
 ---
