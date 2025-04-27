@@ -11,8 +11,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-grey?style=for-the-badge&logo=javascript" alt="Javascript" />
-  <img src="https://img.shields.io/badge/React%20JS-grey?style=for-the-badge&logo=react" alt="React JS" />
-  <img src="https://img.shields.io/badge/Next%20JS-grey?style=for-the-badge&logo=nextjs" alt="Next JS" />
+  <img src="https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react" alt="React JS" />
+  <img src="https://img.shields.io/badge/Next%20JS-grey?style=for-the-badge&logo=next-js" alt="Next JS" />
 </p>
 
 ---
