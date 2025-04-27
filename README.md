@@ -11,6 +11,17 @@
 
 ---
 
+## 🚀 About Me
+
+At **Hence**, we are dedicated to crafting unique and powerful digital experiences.  
+We specialize in **Front-End Development** and **Design**, combining functionality with aesthetics to deliver exceptional results.
+
+- 🔥 Focused on JavaScript, SCSS, and modern web technologies
+- 🛠️ Always improving skills and exploring new technologies
+- 🌍 Based in Lisbon, Portugal
+
+---
+
 ## 🚀 Technologies We Use
 
 <p align="center">
@@ -34,17 +45,6 @@
   <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" />
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects" />
 </p>
-
----
-
-## 🚀 About Me
-
-At **Hence**, we are dedicated to crafting unique and powerful digital experiences.  
-We specialize in **Front-End Development** and **Design**, combining functionality with aesthetics to deliver exceptional results.
-
-- 🔥 Focused on JavaScript, SCSS, and modern web technologies
-- 🛠️ Always improving skills and exploring new technologies
-- 🌍 Based in Lisbon, Portugal
 
 ---
 
