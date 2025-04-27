@@ -2,7 +2,7 @@
   <img src="https://hence.pt/media/svg/ic__hence.svg" width="150" borderRadius="50%" alt="Hence Logo" />
 </p>
 
-<h1 align="center">Hence</h1>
+<h1 align="center">Hence GitHub</h1>
 
 <p align="center">
   Innovative solutions connecting creativity and technology.<br/>
