@@ -18,6 +18,13 @@
   <img src="https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js&logoColor=FFFFFF" alt="Next.js" />
   <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-grey?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-grey?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-grey?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" alt="After Effects" />
+</p>
 
 ---
 
