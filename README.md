@@ -10,11 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/henceenterprise/henceenterprise?color=brightgreen" alt="Contributors" />
-  <img src="https://img.shields.io/github/issues/henceenterprise/henceenterprise" alt="Open Issues" />
-  <img src="https://img.shields.io/github/pulls/henceenterprise/henceenterprise" alt="Open Pull Requests" />
-  <img src="https://img.shields.io/github/last-commit/henceenterprise/henceenterprise" alt="Last Commit" />
-  <img src="https://img.shields.io/github/license/henceenterprise/henceenterprise" alt="License" />
+  <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt="Javascript" />
 </p>
 
 ---
