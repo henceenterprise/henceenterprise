@@ -71,7 +71,7 @@ We specialize in <b>Front-End Development</b> and <b>Design</b>, combining funct
 
 <div align="center">
 
-💼 [LinkedIn](https://www.linkedin.com/in/david-vinagre-36495b195/) • 🌐 [Visit our website](https://hence.pt) • 📧 [Email](mailto:henceventerprise@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/davidmvinagre/) • 🌐 [Visit our website](https://hence.pt) • 📧 [Email](mailto:henceventerprise@gmail.com)
 
 </div>
 
