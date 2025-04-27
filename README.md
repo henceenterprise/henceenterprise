@@ -1,24 +1,28 @@
 <p align="center">
-  <img src="https://hence.pt/media/svg/ic__hence.svg" width="150" borderRadius="50%" alt="Hence Logo" />
+  <img src="https://hence.pt/media/svg/ic__hence.svg" width="150" style="border-radius: 50%;" alt="Hence Logo" />
 </p>
 
 <h1 align="center">Hence GitHub</h1>
 
-<p align="center">
-  Innovative solutions connecting creativity and technology.<br/>
-  Web Development | Design | Digital Innovation
-</p>
+<div align="center">
+Innovative solutions connecting creativity and technology.<br/>
+<b>Web Development | Design | Digital Innovation</b>
+</div>
 
 ---
 
-## 🚀 About Me
+## 🚀 About Us
 
-At **Hence**, we are dedicated to crafting unique and powerful digital experiences.  
-We specialize in **Front-End Development** and **Design**, combining functionality with aesthetics to deliver exceptional results.
+<div align="center">
 
-- 🔥 Focused on JavaScript, SCSS, and modern web technologies
-- 🛠️ Always improving skills and exploring new technologies
-- 🌍 Based in Lisbon, Portugal
+At <b>Hence</b>, we are dedicated to crafting unique and powerful digital experiences.<br/>
+We specialize in <b>Front-End Development</b> and <b>Design</b>, combining functionality with aesthetics to deliver exceptional results.
+
+- 🔥 Focused on JavaScript, SCSS, and modern web technologies  
+- 🛠️ Always improving skills and exploring new technologies  
+- 🌍 Based in Lisbon, Portugal  
+
+</div>
 
 ---
 
@@ -57,12 +61,20 @@ We specialize in **Front-End Development** and **Design**, combining functionali
 
 ---
 
-## 🌎 Connect With Me
+## 🌎 Connect With Us
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/david-vinagre-36495b195/)
-- 🌐 [Visit my website](https://hence.pt)
-- 📧 [Email me](mailto:henceventerprise@gmail.com)
+<div align="center">
+
+💼 [LinkedIn](https://www.linkedin.com/in/david-vinagre-36495b195/) •  
+🌐 [Visit our website](https://hence.pt) •  
+📧 [Email](mailto:henceventerprise@gmail.com)
+
+</div>
 
 ---
 
-## 🎯 Always open to new opportunities and collaborations!
+<div align="center">
+
+🎯 <b>Always open to new opportunities and collaborations!</b>
+
+</div>
