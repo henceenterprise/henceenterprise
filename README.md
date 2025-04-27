@@ -19,11 +19,11 @@
   <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-grey?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-grey?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-grey?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-grey?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" alt="After Effects" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects" />
 </p>
 
 ---
