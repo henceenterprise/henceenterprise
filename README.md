@@ -96,11 +96,11 @@ We specialize in <b>Front-End Development</b> and <b>Design</b>, combining funct
 
 <h2 align="center">🌎 Connect With Us</h2>
 
-<div align="center">
+<p align="center">
 
 💼 [LinkedIn](https://www.linkedin.com/in/davidmvinagre/) • 🌐 [Visit our website](https://hence.pt) • 📧 [Email](mailto:henceventerprise@gmail.com)
 
-</div>
+</p>
 
 ---
 
