@@ -88,8 +88,8 @@ We specialize in <b>Front-End Development</b> and <b>Design</b>, combining funct
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henceenterprise&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henceenterprise&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henceenterprise&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henceenterprise&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
