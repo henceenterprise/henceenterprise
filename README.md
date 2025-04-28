@@ -2,7 +2,7 @@
   <img src="https://hence.pt/media/svg/ic__hence.svg" width="150" style="border-radius: 50%;" alt="Hence Logo" />
 </p>
 
-<h1 align="center">Hence GitHub</h1>
+<h1 align="center">Welcome to Hence GitHub</h1>
 
 <div align="center">
 Innovative solutions connecting creativity and technology.<br/>
@@ -15,8 +15,9 @@ Innovative solutions connecting creativity and technology.<br/>
 
 <div align="center">
 
-At <b>Hence</b>, we are dedicated to crafting unique and powerful digital experiences.<br/>
-We specialize in <b>Front-End Development</b> and <b>Design</b>, combining functionality with aesthetics to deliver exceptional results.
+At <b>Hence</b>, we believe that creativity and technology together have the power to transform ideas into extraordinary digital experiences.<br/><br/>
+We specialize in <b>Front-End Development</b> and <b>Design</b>, combining functionality with aesthetics to deliver high-impact results.<br/><br/>
+We are passionate about building solutions that make a difference — always innovating, always improving.
 
 </div>
 
@@ -25,14 +26,14 @@ We specialize in <b>Front-End Development</b> and <b>Design</b>, combining funct
 <div align="center">
 
 🔥 Focused on JavaScript, SCSS, and modern web technologies <br/>
-🛠️ Always improving skills and exploring new technologies <br/>
+🛠️ Constantly evolving, embracing new trends and innovations <br/>
 🌍 Based in Lisbon, Portugal
 
 </div>
 
 ---
 
-<h2 align="center">🚀 Technologies We Use</h2>
+<h2 align="center">🛠️ Technologies We Use</h2>
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -91,13 +92,13 @@ We specialize in <b>Front-End Development</b> and <b>Design</b>, combining funct
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henceenterprise&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henceenterprise&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henceenterprise&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henceenterprise&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
 
-<h2 align="center">🌎 Connect With Us</h2>
+<h2 align="center">🌐 Connect With Us</h2>
 
 <div align="center">
 
@@ -109,6 +110,7 @@ We specialize in <b>Front-End Development</b> and <b>Design</b>, combining funct
 
 <div align="center">
 
-🎯 <b>Always open to new opportunities and collaborations!</b>
+🎯 <b>Always open to new opportunities, collaborations, and innovation!</b><br/>
+Let's build the future together.
 
 </div>
