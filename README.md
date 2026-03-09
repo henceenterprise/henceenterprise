@@ -1,39 +1,46 @@
 <p align="center">
-  <img src="https://hence.pt/media/svg/ic__hence.svg" width="150" style="border-radius: 50%;" alt="Hence Logo" />
+  <img src="https://hence.pt/media/svg/ic__hence.svg" width="120" alt="Hence Logo" />
 </p>
 
 <h1 align="center">Welcome to Hence GitHub</h1>
 
-<div align="center">
-Innovative solutions connecting creativity and technology.<br/>
-<b>Web Development | Design | Digital Innovation</b>
-</div>
+<p align="center">
+  Innovative solutions connecting creativity and technology.
+</p>
+
+<p align="center">
+  <strong>Web Development | Design | Digital Innovation</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/davidmvinagre/">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="https://hence.pt">Website</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:henceventerprise@gmail.com">Email</a>
+</p>
 
 ---
 
-<h2 align="center">🚀 About Us</h2>
+## About Us
 
-<div align="center">
+At **Hence**, we believe that creativity and technology together have the power to transform ideas into extraordinary digital experiences.
 
-At <b>Hence</b>, we believe that creativity and technology together have the power to transform ideas into extraordinary digital experiences.<br/><br/>
-We specialize in <b>Front-End Development</b> and <b>Design</b>, combining functionality with aesthetics to deliver high-impact results.<br/><br/>
-We are passionate about building solutions that make a difference — always innovating, always improving.
+We specialize in **Front-End Development** and **Design**, combining functionality with aesthetics to deliver high-impact results.
 
-</div>
-
-<br/>
-
-<div align="center">
-
-🔥 Focused on JavaScript, SCSS, and modern web technologies <br/>
-🛠️ Constantly evolving, embracing new trends and innovations <br/>
-🌍 Based in Lisbon, Portugal
-
-</div>
+We are passionate about building solutions that make a difference, always innovating and always improving.
 
 ---
 
-<h2 align="center">🛠️ Technologies We Use</h2>
+## Focus
+
+- Focused on JavaScript, SCSS, and modern web technologies.
+- Constantly evolving, embracing new trends and innovations.
+- Based in Lisbon, Portugal.
+
+---
+
+## Technologies We Use
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -64,7 +71,7 @@ We are passionate about building solutions that make a difference — always inn
 
 ---
 
-<h2 align="center">🎨 Design & Editing Tools</h2>
+## Design & Editing Tools
 
 <p align="center">
   <a href="https://figma.com/" target="_blank">
@@ -89,7 +96,7 @@ We are passionate about building solutions that make a difference — always inn
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=henceenterprise&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
@@ -98,19 +105,19 @@ We are passionate about building solutions that make a difference — always inn
 
 ---
 
-<h2 align="center">🌐 Connect With Us</h2>
+## Connect With Us
 
-<div align="center">
-
-💼 [LinkedIn](https://www.linkedin.com/in/davidmvinagre/) • 🌐 [Visit our website](https://hence.pt) • 📧 [Email](mailto:henceventerprise@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/davidmvinagre/">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="https://hence.pt">Visit our website</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:henceventerprise@gmail.com">henceventerprise@gmail.com</a>
+</p>
 
 ---
 
-<div align="center">
-
-🎯 <b>Always open to new opportunities, collaborations, and innovation!</b><br/>
-Let's build the future together.
-
-</div>
+<p align="center">
+  <strong>Always open to new opportunities, collaborations, and innovation!</strong><br/>
+  Let&apos;s build the future together.
+</p>
