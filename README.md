@@ -92,8 +92,8 @@ We are passionate about building solutions that make a difference — always inn
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henceenterprise&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henceenterprise&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=henceenterprise&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henceenterprise&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
