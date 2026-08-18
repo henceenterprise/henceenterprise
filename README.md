@@ -1,123 +1,43 @@
-<p align="center">
-  <img src="https://hence.pt/media/svg/ic__hence.svg" width="120" alt="Hence Logo" />
-</p>
-
-<h1 align="center">Welcome to Hence GitHub</h1>
+<h1 align="center">Hence</h1>
 
 <p align="center">
-  Innovative solutions connecting creativity and technology.
+  <strong>Ideas transformed into reality.</strong>
 </p>
 
 <p align="center">
-  <strong>Web Development | Design | Digital Innovation</strong>
+  A creative technology group where out-of-the-box ideas take shape and ship with purpose.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/davidmvinagre/">LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="https://hence.pt">Website</a>
-  &nbsp;|&nbsp;
-  <a href="mailto:henceventerprise@gmail.com">Email</a>
+  <a href="https://hence.pt/">Website</a>
+  ·
+  <a href="https://discord.gg/7kjCJ9bYwb">Community</a>
+  ·
+  <a href="mailto:hence@hence.pt">Contact</a>
 </p>
 
 ---
 
-## About Us
+## About
 
-At **Hence**, we believe that creativity and technology together have the power to transform ideas into extraordinary digital experiences.
+Hence brings together creativity, technology, and community to turn ambitious ideas into meaningful digital work.
 
-We specialize in **Front-End Development** and **Design**, combining functionality with aesthetics to deliver high-impact results.
+Based in Lisbon, Portugal, we explore new directions, build with intent, and share what is ready to grow in the open.
 
-We are passionate about building solutions that make a difference, always innovating and always improving.
+## What you will find here
 
----
+- Selected projects and experiments
+- Open-source work when it is ready to share
+- Ideas built with curiosity, care, and purpose
 
-## Focus
+## Let's connect
 
-- Focused on JavaScript, SCSS, and modern web technologies.
-- Constantly evolving, embracing new trends and innovations.
-- Based in Lisbon, Portugal.
+Have an idea, project, or collaboration in mind?
 
----
-
-## Technologies We Use
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-</p>
-
----
-
-## Design & Editing Tools
+- Visit [hence.pt](https://hence.pt/)
+- Join the [Hence community](https://discord.gg/7kjCJ9bYwb)
+- Write to [hence@hence.pt](mailto:hence@hence.pt)
 
 <p align="center">
-  <a href="https://figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </a>
-  <a href="https://spline.design/" target="_blank">
-    <img src="https://img.shields.io/badge/Spline-9C27B0?style=for-the-badge&logo=spline&logoColor=white" alt="Spline" />
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  </a>
-  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
-  </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-    <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
-  </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-    <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
-  </a>
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=henceenterprise&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=henceenterprise&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
-</p>
-
----
-
-## Connect With Us
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/davidmvinagre/">LinkedIn</a>
-  &nbsp;|&nbsp;
-  <a href="https://hence.pt">Visit our website</a>
-  &nbsp;|&nbsp;
-  <a href="mailto:henceventerprise@gmail.com">henceventerprise@gmail.com</a>
-</p>
-
----
-
-<p align="center">
-  <strong>Always open to new opportunities, collaborations, and innovation!</strong><br/>
-  Let&apos;s build the future together.
+  <sub>Lisbon, Portugal · © Hence</sub>
 </p>
