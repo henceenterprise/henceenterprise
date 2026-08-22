@@ -1,5 +1,13 @@
 <!-- Perfil oficial da Hence. -->
 
+<a href="https://hence.pt/pt/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/visual/hence-flow-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/visual/hence-flow-light.gif">
+    <img src="./assets/visual/hence-flow-light.gif" width="1200" alt="Campo halftone hexagonal animado da identidade visual da Hence">
+  </picture>
+</a>
+
 <div align="center">
   <a href="https://hence.pt/pt/">
     <picture>
@@ -22,12 +30,6 @@
     <a href="https://discord.gg/7kjCJ9bYwb"><img src="https://img.shields.io/badge/COMUNIDADE-DISCORD-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Comunidade Hence no Discord"></a>
   </p>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/visual/hence-flow-dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/visual/hence-flow-light.gif">
-  <img src="./assets/visual/hence-flow-light.gif" width="1200" alt="Ideia, design, sistema e experiência ligados pelo processo criativo da Hence">
-</picture>
 
 <h2 align="center">Onde criamos</h2>
 

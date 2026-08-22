@@ -4,26 +4,21 @@
     {
       "file": "hence-flow-dark.gif",
       "theme": "dark",
-      "dimensions": "1200x260",
-      "frames": 48,
-      "duration_ms_per_frame": 70
+      "dimensions": "1200x240",
+      "frames": 40,
+      "duration_ms_per_frame": 100
     },
     {
       "file": "hence-flow-light.gif",
       "theme": "light",
-      "dimensions": "1200x260",
-      "frames": 48,
-      "duration_ms_per_frame": 70
+      "dimensions": "1200x240",
+      "frames": 40,
+      "duration_ms_per_frame": 100
     }
   ],
-  "copy": [
-    "IDEIA",
-    "DESIGN",
-    "SISTEMA",
-    "EXPERIÊNCIA"
-  ],
+  "copy": [],
   "provenance": {
-    "composition": "Deterministic local export created for the Hence GitHub profile",
+    "composition": "Animated hexagonal halftone field created as ambient motion for the Hence GitHub profile",
     "brand_basis": "Official Hence black-and-white geometric language",
     "logo_modified": false,
     "font": "Arial Bold used as the approved sans-serif fallback"
