@@ -9,14 +9,6 @@
 </a>
 
 <div align="center">
-  <a href="https://hence.pt/pt/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/hence-horizontal-principal.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/brand/hence-horizontal-reverso.svg">
-      <img src="./assets/brand/hence-horizontal-reverso.svg" width="520" alt="Hence">
-    </picture>
-  </a>
-
   <h1>Ideias transformadas em realidade.</h1>
 
   <p>
@@ -27,7 +19,6 @@
   <p>
     <a href="https://hence.pt/pt/"><img src="https://img.shields.io/badge/SITE-HENCE.PT-111111?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Site oficial da Hence"></a>
     <a href="https://www.instagram.com/hence.pt/"><img src="https://img.shields.io/badge/INSTAGRAM-@HENCE.PT-111111?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram da Hence"></a>
-    <a href="https://discord.gg/7kjCJ9bYwb"><img src="https://img.shields.io/badge/COMUNIDADE-DISCORD-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Comunidade Hence no Discord"></a>
   </p>
 </div>
 
@@ -76,5 +67,14 @@ Linux · Docker · Docker Compose · systemd · Caddy · Tailscale · Borg · Gi
     <a href="mailto:hence@hence.pt"><img src="https://img.shields.io/badge/CONTACTAR-HENCE@HENCE.PT-111111?style=for-the-badge&amp;logoColor=white" alt="Contactar a Hence por email"></a>
     <a href="https://discord.gg/7kjCJ9bYwb"><img src="https://img.shields.io/badge/ENTRAR-NA_COMUNIDADE-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Entrar na comunidade Hence"></a>
   </p>
-  <sub>Lisboa, Portugal · Em construção</sub>
+
+  <p>
+    <a href="https://hence.pt/pt/">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/hence-horizontal-principal.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./assets/brand/hence-horizontal-reverso.svg">
+        <img src="./assets/brand/hence-horizontal-reverso.svg" width="280" alt="Hence">
+      </picture>
+    </a>
+  </p>
 </div>
